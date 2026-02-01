@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Aaron-Ashclarke
 - 👀 I’m interested in Robotics and CyberSecurity 
-- 🌱 I’m currently learning Bash 
+- 🌱 I’m currently learning Javascript and React 
 - 📫 How to reach me: Via email Aaron.ashclarke@gmail.com 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The end of a Bash if statement is closed with fi 
 
 <!---
