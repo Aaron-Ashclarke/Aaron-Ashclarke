@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Aaron-Ashclarke
-- 👀 I’m interested in Robotics and CyberSecurity 
-- 🌱 I’m currently learning Javascript and React 
-- 📫 How to reach me: Via email Aaron.ashclarke@gmail.com 
-- ⚡ Fun fact: The end of a Bash if statement is closed with fi 
+👋 Hi, I’m @Aaron-Ashclarke
+I am CyberSecurity and Robotics nerd who occasionaly makes hobby programs  
 
 <!---
 Aaron-Ashclarke/Aaron-Ashclarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
